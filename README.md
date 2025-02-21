@@ -1,6 +1,6 @@
-<<<<<<< HEAD
+HEAD
 # JasBlogswebsite
-=======
+
 # Astro Starter Kit: Blog
 
 ```sh

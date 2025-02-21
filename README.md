@@ -1,4 +1,4 @@
-HEAD
+
 # JasBlogswebsite
 
 # Astro Starter Kit: Blog
